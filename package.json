@@ -1,0 +1,23 @@
+{
+    "name": "deep-purple",
+    "displayName": "Deep Purple",
+    "description": "A friendlier dark mode.",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.50.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Deep Purple",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Deep Purple-color-theme.json"
+            }
+        ]
+    },
+    "publisher": "mel-brown",
+    "repository": "https://github.com/mel-brown/deep-purple"
+}
