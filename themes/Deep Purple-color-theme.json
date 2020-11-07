@@ -1169,6 +1169,7 @@
         {
             "scope": [
                 "constant.other",
+                "constant.other.haskell",
                 "support.class.latex",
             ],
             "settings": {
