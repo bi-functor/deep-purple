@@ -720,7 +720,6 @@
         {
             "scope": "markup.bold",
             "settings": {
-                "foreground": "#5F5FFF",
                 "fontStyle": "bold"
             }
         },
