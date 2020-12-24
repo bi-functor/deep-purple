@@ -1,9 +1,9 @@
 # Change Log
 
-All notable changes to the "deep-purple" extension will be documented in this file.
+## 0.0.5
 
-Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how to structure this file.
+- Add support for Error Lens
 
-## [Unreleased]
+## 0.0.4
 
-- Initial release
+- Minor tweaks
