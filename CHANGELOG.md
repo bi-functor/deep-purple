@@ -1,5 +1,9 @@
 # Change Log
 
+## 0.1.2
+
+- Update demo.png
+
 ## 0.1.1
 
 - Increase visibility of active tabs and breadcrumbs
