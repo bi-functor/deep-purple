@@ -1,5 +1,9 @@
 # Change Log
 
+## 0.1.0
+
+- Increase visibility of active tabs and breadcrumbs
+
 ## 0.0.5
 
 - Add support for Error Lens
