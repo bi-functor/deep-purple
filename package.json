@@ -3,12 +3,8 @@
     "displayName": "Deep Purple",
     "description": "A friendlier dark mode.",
     "version": "0.1.2",
-    "engines": {
-        "vscode": "^1.50.0"
-    },
-    "categories": [
-        "Themes"
-    ],
+    "engines": {"vscode": "^1.50.0"},
+    "categories": ["Themes"],
     "contributes": {
         "themes": [
             {
@@ -19,5 +15,13 @@
         ]
     },
     "publisher": "mel-brown",
-    "repository": "https://github.com/mel-brown/deep-purple"
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/mel-brown/deep-purple"
+    },
+    "icon": "images/DeepPurple.png",
+    "galleryBanner": {
+        "color": "#0f001f",
+        "theme": "light"
+    }
 }
