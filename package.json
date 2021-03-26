@@ -2,9 +2,13 @@
     "name": "deep-purple",
     "displayName": "Deep Purple",
     "description": "A friendlier dark mode.",
-    "version": "0.1.2",
-    "engines": {"vscode": "^1.50.0"},
-    "categories": ["Themes"],
+    "version": "0.1.3",
+    "engines": {
+        "vscode": "^1.50.0"
+    },
+    "categories": [
+        "Themes"
+    ],
     "contributes": {
         "themes": [
             {
