@@ -1,5 +1,9 @@
 # Change Log
 
+## 0.1.4
+
+- banner and icon
+
 ## 0.1.2
 
 - Update demo.png

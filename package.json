@@ -26,6 +26,6 @@
     "icon": "images/DeepPurple.png",
     "galleryBanner": {
         "color": "#0f001f",
-        "theme": "light"
+        "theme": "dark"
     }
 }
