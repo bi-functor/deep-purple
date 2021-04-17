@@ -1,5 +1,9 @@
 # Change Log
 
+## 0.2.0
+
+- html tags are more purple!
+
 ## 0.1.4
 
 - banner and icon
