@@ -475,7 +475,7 @@
             "scope": "meta.tag",
             "settings": {
                 "foreground": "#bf7fff",
-                "fontStyle": "bold"
+                "fontStyle": ""
             }
         },
         {
@@ -493,7 +493,7 @@
         {
             "scope": "header",
             "settings": {
-                "foreground": "#000080"
+                "foreground": "#00007f"
             }
         },
         {
@@ -535,6 +535,15 @@
             "settings": {
                 "foreground": "#CFCFFF",
                 "fontStyle": ""
+            }
+        },
+        {
+            "scope": [
+                "punctuation.definition.generic.begin",
+                "punctuation.definition.generic.end",
+            ],
+            "settings": {
+                "fontStyle": "bold"
             }
         },
         {

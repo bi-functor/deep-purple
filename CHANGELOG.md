@@ -1,5 +1,9 @@
 # Change Log
 
+## 0.2.1
+
+- remove bold from inside html tags
+
 ## 0.2.0
 
 - html tags are more purple!
