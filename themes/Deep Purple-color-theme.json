@@ -464,12 +464,18 @@
     "tokenColors": [
         {
             "scope": [
-                "meta.embedded",
-                "meta.embedded.line.hamlet",
+                "source.haskell.embedded",
                 "source.groovy.embedded",
             ],
             "settings": {
-                "foreground": "#9F9FFF"
+                "foreground": "#bfdfff"
+            }
+        },
+        {
+            "scope": "meta.tag",
+            "settings": {
+                "foreground": "#bf7fff",
+                "fontStyle": "bold"
             }
         },
         {
@@ -585,8 +591,8 @@
                 "entity.name.tag.css",
             ],
             "settings": {
-                "foreground": "#00FFFF",
-                "fontStyle": ""
+                "foreground": "#8fafff",
+                "fontStyle": "bold"
             }
         },
         {
@@ -774,10 +780,20 @@
             "scope": [
                 "punctuation.definition.template-expression.begin",
                 "punctuation.definition.template-expression.end",
-                "punctuation.section.embedded"
+                "punctuation.section.embedded",
             ],
             "settings": {
                 "foreground": "#5F5FFF"
+            }
+        },
+        {
+            "scope": [
+                "punctuation.section.interpolation.begin",
+                "punctuation.section.interpolation.end",
+            ],
+            "settings": {
+                "foreground": "#00bfff",
+                "fontStyle": ""
             }
         },
         {
