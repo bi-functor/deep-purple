@@ -1,5 +1,10 @@
 # Change Log
 
+## 0.2.2
+
+- even more purple html
+- changed git colours in editor and list
+
 ## 0.2.1
 
 - remove bold from inside html tags
